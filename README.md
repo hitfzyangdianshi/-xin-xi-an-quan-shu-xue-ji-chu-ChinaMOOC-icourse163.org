@@ -6,8 +6,10 @@
 
 课程没有课件，但是有教材。我有教材的影印pdf版，如果需要可以留言或者email。
 
+----------------------------------------------------------------------------------------------------------
 
 顺便推荐几个有用的网址：
+
 在线分解质因数计算器工具： http://tools.jb51.net/jisuanqi/factor_calc?
 
 Modular Multiplicative Inverse： https://www.dcode.fr/modular-inverse
