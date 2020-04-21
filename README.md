@@ -10,7 +10,7 @@
 
 顺便推荐几个有用的网址：
 
-在线分解质因数计算器工具： http://tools.jb51.net/jisuanqi/factor_calc?
+在线分解质因数计算器工具： http://tools.jb51.net/jisuanqi/factor_calc
 
 Modular Multiplicative Inverse： https://www.dcode.fr/modular-inverse
 
